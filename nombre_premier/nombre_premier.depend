@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650938639 source:c:\users\ahmed\documents\les-project-sur-language-c\laungage c\nombre_premier\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
